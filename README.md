@@ -33,4 +33,4 @@ Transformer-XL | **0.99** | **1.08** | **21.8** | **18.3** | **54.5**
 
 A large portion of the `getdata.sh` script comes from the [awd-lstm](https://github.com/salesforce/awd-lstm-lm/) repo. Happy Language Modeling :)
 
-## FOrked by silentknight
+## Forked by silentknight
